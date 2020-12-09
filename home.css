@@ -1,0 +1,35 @@
+.header1_img {
+  margin-left: 20px;
+  padding-left: 120px;
+  padding-top: 10px;
+}
+.side_panel_img {
+  margin-top: -102px;
+  margin-right: 800px;
+}
+.sub_heading {
+  color: blue;
+  margin-top: -220px;
+  margin-left: 340px;
+}
+.header2_img {
+  margin-left: 100px;
+  padding-left: 50px;
+}
+.contents {
+  margin-top: -10px;
+  margin-left: 150px;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+footer {
+  margin-top: 80px;
+  border-top: 1px solid black;
+}
+p {
+  text-align: right;
+}
